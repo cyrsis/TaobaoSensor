@@ -1,0 +1,9 @@
+C:\Users\victor888\Desktop\windows\windows\C#\obj\x86\Release\MiniIMU.csproj.ResolveComReference.cache
+C:\Users\victor888\Desktop\windows\windows\C#\bin\Release\MiniIMU.exe
+C:\Users\victor888\Desktop\windows\windows\C#\bin\Release\MiniIMU.pdb
+C:\Users\victor888\Desktop\windows\windows\C#\obj\x86\Release\MiniIMU.csprojResolveAssemblyReference.cache
+C:\Users\victor888\Desktop\windows\windows\C#\obj\x86\Release\MiniIMU.Form1.resources
+C:\Users\victor888\Desktop\windows\windows\C#\obj\x86\Release\MiniIMU.Properties.Resources.resources
+C:\Users\victor888\Desktop\windows\windows\C#\obj\x86\Release\MiniIMU.csproj.GenerateResource.Cache
+C:\Users\victor888\Desktop\windows\windows\C#\obj\x86\Release\MiniIMU.exe
+C:\Users\victor888\Desktop\windows\windows\C#\obj\x86\Release\MiniIMU.pdb
